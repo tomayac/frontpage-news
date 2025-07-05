@@ -1,6 +1,6 @@
 {
-  "name": "Baseline PWA",
-  "short_name": "PWA",
+  "name": "Frontpage News",
+  "short_name": "Frontpage",
   "start_url": "./",
   "id": "./",
   "icons": [
